@@ -1,7 +1,7 @@
 # Python Fundamentals & Mini-Project Proposal
 
 **Program:** THDC-IHET Python / AI-ML Preparation  
-**Student:** Replace with your name  
+**Student:** Vishesh Pokhriyal
 **Branch/Year:** B.Tech CSE  
 **Repository purpose:** Practice Python fundamentals, algorithms, Git/GitHub, and propose a mini-project.
 
