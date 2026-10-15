@@ -2,7 +2,7 @@
 
 **Program:** THDC-IHET Python / AI-ML Preparation  
 **Student:** Vishesh Pokhriyal
-**Branch/Year:** B.Tech CSE  
+**Branch/Year:** B.Tech CSE  3rd
 **Repository purpose:** Practice Python fundamentals, algorithms, Git/GitHub, and propose a mini-project.
 
 ## 1. What this repository contains
