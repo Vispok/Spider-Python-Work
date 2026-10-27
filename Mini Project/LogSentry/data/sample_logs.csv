@@ -1,0 +1,5 @@
+timestamp,event_type,status,source_ip
+2026-10-23T10:00:00,login,failed,192.168.1.10
+2026-10-23T10:00:05,login,failed,192.168.1.10
+2026-10-23T10:00:08,login,success,192.168.1.11
+2026-10-23T10:01:00,logout,success,192.168.1.12
